@@ -28,12 +28,12 @@ section {
 	height: 100%;
 }
 
+#logo1 {
+  height: 40px;
+}
 
 #name {
   font-size: 10px;
 }
 
-#logo1 {
-  height: 40px;
-}
-	
+
